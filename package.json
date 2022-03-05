@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "gearlauncher",
   "version": "1.9.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Gear Launcher",
+  "description": "Launcher en dev pour serveur moddé de Lyms#2973",
+  "author": "Fork of Daniel Scalzi (https://github.com/dscalzi/) Helios Launcher by Lyms#2973",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/LymsMC/GearLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/LymsMC/GearLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/LymsMC/GearLauncher.git"
   }
 }
